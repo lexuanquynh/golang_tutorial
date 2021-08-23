@@ -4,10 +4,10 @@
 In this chap, you will learn making a POST and GET method in Golang.
 The demo API:
 
-[x] http://localhost:8080/
-[x] http://localhost:8080/form.html
+- [x] http://localhost:8080/
+- [x] http://localhost:8080/form.html
 
-<img src="image/demo" width="400">
+<img src="image/demo.png" width="400">
 
 1. Open terminal in visual code and type:
 
